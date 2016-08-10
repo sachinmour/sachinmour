@@ -1,0 +1,1267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"animate",
+				"animate	.animate()"
+			],
+			[
+				"anim",
+				"animate	.animate()"
+			],
+			[
+				"HomePa",
+				"HomePageMailer	(home_page_mailer.rb)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"abou",
+				"aboutUs	(about.html.erb)"
+			],
+			[
+				"home",
+				"home_page#home"
+			],
+			[
+				"recom",
+				"recommendations"
+			],
+			[
+				"posts_",
+				"posts_from_following"
+			],
+			[
+				"psot",
+				"posts_list"
+			],
+			[
+				"follo",
+				"following_posts	(home_page_controller.rb)"
+			],
+			[
+				"post",
+				"posts_from_users_following"
+			],
+			[
+				"fol",
+				"following_ids"
+			],
+			[
+				"partia",
+				"partial	include partial view	erb"
+			],
+			[
+				"but",
+				"button_ajax	(show.html.erb)"
+			],
+			[
+				"autho",
+				"authorization"
+			],
+			[
+				"relati",
+				"relationships	(user.rb)"
+			],
+			[
+				"white",
+				"white_list_sanitizer"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"lin",
+				"link_to	create a link	erb"
+			],
+			[
+				"curren",
+				"current_user"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"side_he",
+				"side_height"
+			],
+			[
+				"scrol",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"pso",
+				"position	(home_page.scss)"
+			],
+			[
+				"conf",
+				"configure"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"ovr",
+				"overflow"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"side",
+				"sidebar	(home.html.erb)"
+			],
+			[
+				"sid",
+				"sidebar_wrapper	(home.html.erb)"
+			],
+			[
+				"user",
+				"user_ids"
+			],
+			[
+				"pagin",
+				"pagination	(home_page.scss)"
+			],
+			[
+				"des",
+				"desktop"
+			],
+			[
+				"upda",
+				"update_hot_score"
+			],
+			[
+				"sapc",
+				"space-between"
+			],
+			[
+				"passwo",
+				"password_resets"
+			],
+			[
+				"forgot",
+				"forgot-password	(new.html.erb)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"filet",
+				"filter_by_tag	(posts_controller.rb)"
+			],
+			[
+				"filt",
+				"filter_by_tag	(posts_controller.rb)"
+			],
+			[
+				"fa-thu",
+				"fa-thumbs-o-up"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"cla",
+				"classB"
+			],
+			[
+				"clas",
+				"classA"
+			],
+			[
+				"togl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"cl",
+				"classB"
+			],
+			[
+				"fa-th",
+				"fa-thumbs-o-up"
+			],
+			[
+				"currnet_",
+				"current_user	(posts_controller.rb)"
+			],
+			[
+				"fa",
+				"fa-thumbs-o-up"
+			],
+			[
+				"do",
+				"downvoteClass"
+			],
+			[
+				"upvo",
+				"upvoteClass"
+			],
+			[
+				"fa-thubm",
+				"fa-thumbs-o-up	(show.html.erb)"
+			],
+			[
+				"create",
+				"created_at	(schema.rb)"
+			],
+			[
+				"FA",
+				"FACEBOOK_KEY=\"1560653454227069	(.env)"
+			],
+			[
+				"twi",
+				"twitter_share_url	(posts_helper.rb)"
+			],
+			[
+				"desc",
+				"description	(application_controller.rb)"
+			],
+			[
+				"get",
+				"getImage"
+			],
+			[
+				"conte",
+				"contentEle"
+			],
+			[
+				"image",
+				"image_params"
+			],
+			[
+				"ima",
+				"image_tag	(create.js.erb)"
+			],
+			[
+				"imag",
+				"image_tag	(edit.html.erb)"
+			],
+			[
+				"replace",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"repla",
+				"replaceWith	.replaceWith()"
+			],
+			[
+				"images",
+				"images/1"
+			],
+			[
+				"im",
+				"image_tag	create a image	erb"
+			],
+			[
+				"belong",
+				"belongs	(markdown.js)"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"content",
+				"content_preview	(_form.html.erb)"
+			],
+			[
+				"conten",
+				"content_preview"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"tags",
+				"tagsclass	(posts_helper.rb)"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tag",
+				"tag_list"
+			],
+			[
+				"sty",
+				"stylesheet_link_tag	include style src	erb"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"for",
+				"foreign_key"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"cu",
+				"current_user"
+			],
+			[
+				"cur",
+				"current_user	(sessions_helper.rb)"
+			],
+			[
+				"ever",
+				"evernote_token"
+			],
+			[
+				"tex",
+				"text_field"
+			],
+			[
+				"prepend",
+				"prependTo	.prependTo()"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"product",
+				"product"
+			],
+			[
+				"cart",
+				"cartproducts	(show.html.erb)"
+			],
+			[
+				"file",
+				"fileoutput"
+			],
+			[
+				"transfer",
+				"transferfrom"
+			],
+			[
+				"from",
+				"fromcountry"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"fil",
+				"fileoutput"
+			],
+			[
+				"to",
+				"tocountry"
+			],
+			[
+				"state",
+				"statebol"
+			],
+			[
+				"sen",
+				"send_keys"
+			],
+			[
+				"send",
+				"send_keys	(westernunion.rb)"
+			],
+			[
+				"E",
+				"EUR	(westernunion.rb)"
+			],
+			[
+				"tran",
+				"transferto"
+			],
+			[
+				"trans",
+				"transferto"
+			],
+			[
+				"rece",
+				"receiver_amount"
+			],
+			[
+				"H",
+				"HTML"
+			],
+			[
+				"total",
+				"total"
+			],
+			[
+				"focus",
+				"focus	.focus()"
+			],
+			[
+				"build",
+				"buildtree"
+			],
+			[
+				"line_i",
+				"line_item	(line_items_controller.rb)"
+			],
+			[
+				"Lin",
+				"LineItem	(line_items_controller.rb)"
+			],
+			[
+				"vari",
+				"variant	(variant.rb)"
+			],
+			[
+				"has_",
+				"has_and_belongs_to_many	(product.rb)"
+			],
+			[
+				"optio",
+				"options_products"
+			],
+			[
+				"add",
+				"add_index	(schema.rb)"
+			],
+			[
+				"selec",
+				"select_list"
+			],
+			[
+				"end",
+				"end	only end	erb"
+			],
+			[
+				"order",
+				"orders	(routes.rb)"
+			],
+			[
+				"li",
+				"link_to	create a link	erb"
+			],
+			[
+				"first",
+				"first_name	(users_controller.rb)"
+			],
+			[
+				"logged",
+				"logged_in	(users_controller.rb)"
+			],
+			[
+				"succe",
+				"success	(users_controller.rb)"
+			],
+			[
+				"pass",
+				"password_resets"
+			],
+			[
+				"log_",
+				"log_out	(sessions_helper.rb)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1726,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "rename",
+		"selected_items":
+		[
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Bea",
+				"BeautifyRuby"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Pretty",
+				"Pretty Ruby: Format"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: isn",
+				"Package Control: Install Package"
+			],
+			[
+				"Sass",
+				"SassBeautify"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"SublimeREPL: Shell"
+			],
+			[
+				"sublimerepl: r",
+				"SublimeREPL: Rails"
+			],
+			[
+				"sublimerepl:",
+				"SublimeREPL: Rails"
+			],
+			[
+				"sublimerepl: ru",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sachinmour/Desktop/sachinmour",
+		"/home/sachinmour/Desktop/myblog"
+	],
+	"file_history":
+	[
+		"/home/sachinmour/Desktop/myblog/app/views/users/show.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_follow_form.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/home_page.scss",
+		"/home/sachinmour/Desktop/myblog/app/views/home_page/about.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/home_page_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/action_layout.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/alerts.scss",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/universal.js",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/application.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/application_without_header.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/_flash.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/mailers/home_page_mailer.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/home_page_mailer/feedback_email.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/home_page/contact.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/mailers/user_mailer.rb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/users_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/user_mailer/password_reset.html.erb",
+		"/home/sachinmour/Desktop/myblog/config/environments/development.rb",
+		"/home/sachinmour/Desktop/myblog/config/environments/production.rb",
+		"/home/sachinmour/Desktop/myblog/config/routes.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/users.scss",
+		"/home/sachinmour/Desktop/myblog/app/controllers/static_pages_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/posts_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/home_page.js",
+		"/home/sachinmour/Desktop/myblog/app/views/users/posts_from_following.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/filter_by_tag.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/posts.js",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/posts.scss.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/filter_by_tag.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/users.js",
+		"/home/sachinmour/Desktop/myblog/app/views/users/posts_from_following.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_post.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/home_page/home.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_following_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/authorizations_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/relationships/relationship_status.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_relationship.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/following.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_followers_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/followers.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_relationships.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/relationships_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/relationships/destroy.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/following.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/followers.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_unfollow.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_follow.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/_head.html.erb",
+		"/home/sachinmour/Desktop/myblog/Gemfile",
+		"/home/sachinmour/Desktop/myblog/.eslintrc.js",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/application.js",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/markdown.js",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/prism.js",
+		"/home/sachinmour/Desktop/myblog/.gitignore",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/relationships.coffee",
+		"/home/sachinmour/Desktop/myblog/app/views/sessions/new.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/sessions/_new_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/sessions/new.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/sessions_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_not_logged_in.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/application/log_in.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/new_provider.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/new_provider.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_new_provider_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/application_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/helpers/users_helper.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/new.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/new_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/application/_log_in.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/models/authorization.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/posts.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/_delete_post_popup.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/application/log_in.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/models/user.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_authorizations.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/models/relationship.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/authorizations.html.erb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160803214048_create_relationships.rb",
+		"/etc/rc.local",
+		"/home/sachinmour/Desktop/myblog/app/views/layouts/_favicon.html.erb",
+		"/etc/modules-load.d/modules.conf",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/prism.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/prism.css",
+		"/home/sachinmour/Downloads/prism.css",
+		"/home/sachinmour/Desktop/myblog/app/helpers/home_page_helper.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/main.scss",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/show.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/helpers/application_helper.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/stylesheets/coderay.scss",
+		"/home/sachinmour/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/sachinmour/.config/sublime-text-3/Packages/User/erb.sublime-settings",
+		"/home/sachinmour/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/google_analytics.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/google_analytics.js",
+		"/home/sachinmour/Desktop/myblog/config/initializers/carrierwave.rb",
+		"/home/sachinmour/Desktop/myblog/app/uploaders/avatar_uploader.rb",
+		"/home/sachinmour/Desktop/myblog/config/deploy.rb",
+		"/home/sachinmour/Desktop/myblog/.env",
+		"/home/sachinmour/Desktop/myblog/config/database.yml",
+		"/home/sachinmour/Downloads/prism.js",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_short_post.html.erb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160719095657_add_index_to_posts.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/_form.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/helpers/posts_helper.rb",
+		"/home/sachinmour/Desktop/myblog/config/initializers/acts_as_taggable_on.rb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160718213409_add_hot_score_to_posts.rb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160718202415_add_hot_score_function.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/_form.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/index.html.erb",
+		"/home/sachinmour/.dropbox-dist/dropboxd",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/_published.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/password_resets/edit.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/controllers/password_resets_controller.rb",
+		"/home/sachinmour/Desktop/myblog/app/assets/javascripts/users.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/users/new.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/password_resets/new.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/after_publishing.js.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/_drafts.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/posts/index.json.jbuilder",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_rolling_css.html.erb",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_header.html.erb",
+		"/home/sachinmour/Desktop/myblog/db/schema.rb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160716100446_create_user_votes.rb",
+		"/home/sachinmour/Desktop/myblog/app/models/user_vote.rb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160716102552_add_upvotes_and_downvotes_to_posts.rb",
+		"/home/sachinmour/Desktop/myblog/app/models/post.rb",
+		"/home/sachinmour/Desktop/myblog/db/migrate/20160716094903_add_upvotes_and_downvotes_to_posts.rb",
+		"/home/sachinmour/Desktop/myblog/app/views/shared/_logged_in.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/sachinmour/Desktop/myblog/",
+			"/home/sachinmour/Desktop/mystore/",
+			"root"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content",
+			"home",
+			"blockquote",
+			"component",
+			"<",
+			"asset",
+			"<%",
+			"@",
+			"asset",
+			"@",
+			"gon",
+			"password",
+			"sign",
+			"sign-up",
+			"div#email-sig",
+			"content",
+			"Turbolinks.clearCache()",
+			"Turbolinks.clearCache()\nTurbolinks.visit(\"http://localhost:3000/login\", {\"action\":\"replace\"})",
+			"font-famil",
+			"josefin",
+			"page",
+			"src = src.substring(cap[0].length)",
+			", cap",
+			", cap\\n",
+			", cap",
+			"this.renderer.options = this.options;",
+			"sanitize",
+			"options",
+			" ",
+			"font-size",
+			"pre",
+			"div#content_pre",
+			"edit",
+			"action_layout",
+			"posts.show",
+			"div#conte",
+			"posts.edit",
+			"pre",
+			"left",
+			"pre",
+			"{\n",
+			"post_path",
+			"#edit_post",
+			"post_url",
+			"post_path",
+			"post_url",
+			"border: 1px",
+			"\\.post",
+			"byebug",
+			"grey",
+			"google",
+			"linkedin",
+			"google",
+			"meta",
+			"twitter",
+			"git",
+			"capfile",
+			"hidden",
+			"component",
+			"out",
+			"nil",
+			"null",
+			"nil",
+			"ni",
+			"nil",
+			"src",
+			"components",
+			"ruby",
+			"display",
+			"float",
+			"pre",
+			"code",
+			"height",
+			"width",
+			"textarea",
+			".CodeRay pr",
+			"pre",
+			"header",
+			"*",
+			" ",
+			"client",
+			"noscript",
+			"tl.r7ls.net/",
+			"src=\"/",
+			"src=\"//",
+			"href=\"/",
+			"href=\"//",
+			"src=\"/",
+			"src=\"//",
+			"href=\"/",
+			"href=\"//",
+			"src=\"/",
+			"src=\"//",
+			"href=\"/",
+			"href=\"//",
+			"href=\"/",
+			"css",
+			"fromcountry.+",
+			"round(4)",
+			"# puts",
+			"\"100\"",
+			"  ",
+			"    ",
+			"irb\\(main\\):\\d+:\\d>",
+			"logout",
+			"signup",
+			"\"\n",
+			"and",
+			"end",
+			"jcrop",
+			"coords.",
+			"gif",
+			"name",
+			"spaces",
+			"1000px",
+			"key",
+			"brandon",
+			"byline",
+			"collection",
+			"load_res",
+			"permalink"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\", \"",
+			"\", ",
+			"$slast",
+			"sendgrid_client",
+			"src=\"http://www.shutterstock.com/",
+			"src=\"http://",
+			"href=\"http://www.shutterstock.com/",
+			"href=\"http://",
+			"src=\"http://www.shutterstock.com/",
+			"href=\"http://www.shutterstock.com/",
+			"src=\"www.shutterstock.com/",
+			"href=\"www.shutterstock.com/",
+			"href=\"www.shutterstock.com",
+			"href=\"www.shutterstock.com/\"",
+			"fromvalue = \"\"",
+			"round(5)",
+			"",
+			"amount",
+			"",
+			"\\n",
+			"",
+			"c."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": null,
+							"translate_tabs_to_spaces": null
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Rakefile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sachinmour.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/FreeCodeCamp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
