@@ -1,3 +1,488 @@
-// Place all the styles related to the StaticPages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "https://fonts.googleapis.com/css?family=Kalam:400,700";
+
+@import "normalize";
+
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+$first: #FCFFF5;
+$second: #D1DBBD;
+$mid: #91AA9D;
+$slast: #3E606F;
+$last: #193441;
+
+@mixin logo-dimensions($box-width, $box-height) {
+  width: $box-width * 5;
+  height: $box-height;
+
+  div.first,
+  div.second {
+    width: $box-width;
+    height: $box-height;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $second;
+  background-image: url("http://i.imgur.com/rNE3tkb.png");
+
+  @include mobile {
+    background-size: 150%;
+  }
+
+
+  @include tablet {
+    background-size: 100%;
+  }
+
+
+  @include desktop {
+    background-size: 65%;
+  }
+}
+
+div#content {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+div.line {
+  display: flex;
+
+  @include logo-dimensions(0.6rem, 0.5rem);
+
+  @media (max-width: 500px) {
+    @include logo-dimensions(0.52rem, 0.45rem);
+  }
+
+  &:nth-child(4) {
+    div.first {
+      margin-left: auto;
+    }
+  }
+}
+
+div.first {
+  background-color: $first;
+}
+
+div.second {
+  background-color: darken($slast, 5);
+}
+
+div#header {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  align-items: center;
+  padding-left: 20px;
+
+  @include mobile {
+    height: 80px;
+  }
+}
+
+div#main_content, div#work_content, div#me, div#more_projects, div#contact {
+  display: flex;
+  color: $last;
+  flex-direction: column;
+  padding: 0 20px;
+  font-size: 1.8rem;
+
+  @media (min-width: 500px) {
+    width: 100%;
+    max-width: 1280px;
+  }
+
+  @media (max-width: 500px) {
+    padding: 0 20px;
+  }
+
+  @media (min-width: 500px) and (max-width: 768px) {
+    padding: 0 40px;
+  }
+
+  @include tablet {
+    padding: 0 40px;
+  }
+
+
+  @include desktop {
+    padding: 0 80px;
+  }
+
+
+  div.title {
+    font-size: 1.8rem;
+    font-weight: 700;
+
+    a {
+      color: $last;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+div#intro {
+  margin-top: 50px;
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  p#hello {
+    font-size: 1.8rem;
+  }
+
+  @include mobile {
+    max-width: 100;
+  }
+
+
+  p#short_desc {
+    margin-top: 0;
+    font-weight: 400;
+    font-size: 1.8rem;
+  }
+
+  @media (max-width: 500px) {
+    font-size: 1.4rem;
+
+    p#short_desc {
+      font-size: 1.4rem;
+    }
+  }
+}
+
+div#achievements {
+  font-family: 'Kalam', cursive;
+  margin-top: 150px;
+
+  a {
+    color: $last;
+  }
+
+  @media (max-width: 500px) {
+    font-size: 1.4rem;
+  }
+}
+
+div#work {
+  font-family: 'Kalam', cursive;
+  margin-top: 150px;
+
+  div.category {
+    // background-color: $last;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+    div.title p {
+      margin: 0px;
+      padding: 30px 10px;
+    }
+  }
+
+  div.projects {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    div.project {
+      width: 95%;
+      position: relative;
+      margin-bottom: 20px;
+
+      a {
+        width: 100%;
+
+        img {
+          display: flex;
+          max-width: 100%;
+          max-height: 100%;
+          width: auto;
+          height: auto;
+        }
+      }
+
+      div.info {
+        display: flex;
+        justify-content: space-around;
+        border-bottom: 1px solid $last;
+        align-items: center;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        background-color: $second;
+        color: $last;
+        opacity: 0.8;
+        padding: 10px;
+
+        p {
+          margin: 0px;
+        }
+
+        p.links {
+          a {
+            margin: 0 2px;
+            text-decoration: none;
+            color: $last;
+
+            &:hover {
+              color: black;
+            }
+          }
+        }
+
+        @include mobile {
+          padding: 8px;
+
+          p {
+            font-size: 0.8rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+div#about-me {
+  margin-top: 150px;
+
+  div#bio {
+    display: flex;
+    flex-direction: column;
+
+    @include desktop {
+      flex-direction: row;
+    }
+
+
+    div#picture {
+      flex: 1;
+      margin-bottom: 20px;
+
+      img {
+        width: 100%;
+      }
+
+      margin-right: 0px;
+      max-width: 500px;
+
+      @include desktop {
+        margin-right: 30px;
+        max-width: auto;
+      }
+    }
+
+    div#about {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      font-size: 1.4rem;
+      margin-left: 0px;
+
+      p {
+        margin-top: 0px;
+      }
+
+      @include desktop {
+        margin-left: 30px;
+      }
+    }
+  }
+}
+
+div#more {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+
+  div#show_more {
+    display: flex;
+    background-color: $second;
+    border: 1px solid $last;
+    font-size: 1.6rem;
+
+    p#text + a {
+      order: -1;
+    }
+
+    &:hover {
+      p#text {
+        background-color: $last;
+        color: $second;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  #text:hover ~ a p {
+    background-color: $second;
+    color: $last;
+  }
+
+  p {
+    display: flex;
+    font-family: 'Kalam', cursive;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    margin: 0px;
+    color: $slast;
+
+    @media (max-width: 500px) {
+      font-size: 1rem;
+    }
+  }
+
+  p#text {
+    padding-left: 40px;
+    padding-right: 40px;
+
+    @media (max-width: 500px) {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  p#github, p#codepen {
+    color: $second;
+    background-color: $last;
+    display: flex;
+    padding: 20px 40px;
+
+    i {
+      font-size: 1.6rem;
+    }
+
+    @media (max-width: 500px) {
+      padding: 10px 20px;
+    }
+
+    &:hover {
+      background-color: $second;
+      color: $last;
+    }
+  }
+}
+
+div#contact-me {
+  margin-top: 150px;
+
+  div#starter {
+    display: flex;
+    justify-content: center;
+    font-size: 1.4rem;
+  }
+
+  div#contact_info {
+    font-size: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    @include desktop {
+      flex-direction: row;
+    }
+
+
+    div#basic {
+      flex: 1;
+      margin-bottom: 20px;
+      margin-right: 0px;
+      max-width: 400px;
+      width: 100%;
+
+      @include desktop {
+        margin-right: 30px;
+        max-width: auto;
+      }
+
+
+      div#phone, div#email {
+        display: flex;
+        align-items: center;
+
+        i {
+          margin-right: auto;
+        }
+
+        p {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+        }
+      }
+
+      hr {
+        border: 1px solid $last;
+        background-color: $last;
+      }
+
+      div#social {
+        display: flex;
+        justify-content: center;
+
+        a {
+          color: $last;
+          padding: 10px;
+          text-decoration: none;
+
+          &:hover {
+            color: darken($last, 10);
+          }
+        }
+      }
+    }
+
+    div#form {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      font-size: 1.4rem;
+      margin-left: 0px;
+
+      @include desktop {
+        margin-left: 30px;
+      }
+    }
+  }
+}
