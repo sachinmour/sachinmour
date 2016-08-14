@@ -9,7 +9,7 @@
     <script async="true" src="https://use.fontawesome.com/a1e5f35c86.js"></script>
     <%= render 'layouts/fonts' %>
     <%= render 'layouts/loadCSS' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload', async: Rails.env.production? %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload', defer: Rails.env.production? %>
     <%= stylesheet_link_tag "application", media: 'all', 'data-turbolinks-track': 'reload' %>
   </head>
   <body>
