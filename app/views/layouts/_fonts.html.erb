@@ -1,0 +1,7 @@
+<% load_async = [
+	"https://fonts.googleapis.com/css?family=Kalam:400,700"
+	] %>
+<% load_async.each do |async_link| %>
+  <link rel="preload" href="<%= async_link %>" as="style" onload="this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="<%= async_link %>"></noscript>
+<% end %>
